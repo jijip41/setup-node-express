@@ -164,12 +164,4 @@ npm install dotenv
 npm install pg
 ```
 
-## Remote database
 
-```
-postgres://okaws:d3fa@ec2-54.eu-west-1.compute.amazonaws.com:5432/d8bvo
-```
-Connect to the remote database 
-```
-psql your_url_goes_here
-```
